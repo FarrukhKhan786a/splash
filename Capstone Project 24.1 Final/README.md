@@ -28,7 +28,7 @@ Dataset of 253,680 survey responses to the CDC's BRFSS2015. The target variable 
  
 1) Decision to use diabetes _ 012 _ health _ indicators _ BRFSS2015.csv for firt phase of exploration as it has 3 classes. 0 is for no diabetes or only during pregnancy, 1 is for prediabetes, and 2 is for diabetes.
 2) The data sets has three 3 classes. 0 is for no diabetes or only during pregnancy, 1 is for prediabetes, and 2 is for diabetes. which is ideal for regression
-3) The data set is imbalanced which precent enjoyment to explore options how to balance 
+3) The data set is imbalanced which precent a challenge to explore options how to balance data and have a good prediction results 
 
 #### Trade-off made by Farrukh
 
