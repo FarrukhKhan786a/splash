@@ -1,7 +1,7 @@
 # Capstone Project 24.1 Final Report
 
 ### Problem Statement
-Diabetes is among the most prevalent chronic diseases in around the world, impacting millions of people each year and exerting a significant financial burden on the economy. Early diagnosis can lead to lifestyle changes and more effective treatment, making predictive models for diabetes risk important tools for public and public health officials. ###### (I am not only the promoter of solution but also a client as I am diabetic)
+Diabetes is among the most prevalent chronic diseases in around the world, impacting millions of people each year and exerting a significant financial burden on the economy. Early diagnosis can lead to lifestyle changes and more effective treatment, making predictive models for diabetes risk important tools for public and public health officials. (I am not only the promoter of solution but also a client as I am also diabetic)
 
 ###### Data Acquisition
 I tried to get data from medical instiions but first I was required to have myself reguistered with institution but as the same time it required a degree in medical field which was major challenge, therefore, I end up using Kaggle dataset. I used below
