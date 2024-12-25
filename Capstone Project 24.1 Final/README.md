@@ -41,6 +41,8 @@ Rows Count: 578,052
   
 ![image](https://github.com/user-attachments/assets/98f1f310-6b3a-48cd-ac51-fcbc269f1e77)
 
+![image.png](attachment:4a01d6ee-abe8-4100-9a20-2154453dfb14.png)
+
 8.	Data Preprocessing/Preparation: For this deliverable, you are tasked with detailing how you cleaned the data for your notebook.
 9.	
 a.	What techniques did you use to ensure your data was free of missing values, and inconsistencies? 
