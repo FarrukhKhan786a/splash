@@ -24,23 +24,14 @@ Dataset of 70,692 survey responses to the CDC's BRFSS2015. It has an equal 50-50
 ###### diabetes _ binary _ health _ indicators _ BRFSS2015.csv
 Dataset of 253,680 survey responses to the CDC's BRFSS2015. The target variable Diabetes_binary has 2 classes. 0 is for no diabetes, and 1 is for prediabetes or diabetes. This dataset has 21 feature variables and is not balanced.
 
-#### Decision made by Farrukh
- 
-1) Decision to use diabetes _ 012 _ health _ indicators _ BRFSS2015.csv for first phase of exploration as it has 3 classes. 0 is for no diabetes or only during pregnancy, 1 is for prediabetes, and 2 is for diabetes.
-2) The data sets has three 3 classes. 0 is for no diabetes or only during pregnancy, 1 is for prediabetes, and 2 is for diabetes. which is ideal for regression
-3) The data set is imbalanced which precent a challenge to explore options how to balance data and have a good prediction results
+###### BMI (Body Mass Index)
+Below 18.5 Underweight 18.5 – 24.9 Normal weight 25.0 – 29.9 Overweight 30.0 and above Obese
 
-###### Rational behind decision:
-The dataset has prediabetes data which Farrukh thicks can be useful be regression. Other two dataset doesn't have prediabetic data
+###### GenHlth (General Health)
+1: Excellent 2: Very Good 3: Good 4: Fair 5: Poor
 
-#### Trade-off made by Farrukh
-
- 1) Put other two data files at back burner for future exploration to imporve preditction accuracy but limit effforts to meet finsh timelime
-
-###### Rational behind trade-off:
-
-The two dataset doesn't have prediabetic data but can be used to improve regression later
-
+###### HighBP (High Blood Pressure) & HighChol (Hiogh Cholestrol)
+Majority of class 1 (diabetic cases) has high blood pressure & High choletrol
 
 
 
