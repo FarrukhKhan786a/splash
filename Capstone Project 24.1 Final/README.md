@@ -1,4 +1,41 @@
-# Diabetes Health Indicators Dataset
+# Capstone Project 24.1 Final Report
+
+### Problem Statement
+Diabetes is among the most prevalent chronic diseases in around the world, impacting millions of people each year and exerting a significant financial burden on the economy. Early diagnosis can lead to lifestyle changes and more effective treatment, making predictive models for diabetes risk important tools for public and public health officials. ###### (I am not only the promoter of solution but also a client as I am diabetic)
+
+2.	# Model Outcomes or Predictions:
+	
+### Supervised Learning Models used
+1) Random Forest  84% achieved
+2) Logsitical Regression 74% achieved
+3) k-Nearest Neighbors (k-NN) ~~ 84% achieved (but slightly lesser compare to Random Forest)
+   
+### Unsupervised Learning Models used
+   Dimensionality Reduction Models:
+   Principal Component Analysis (PCA)
+
+   Used combionation of Supervised with Unsupervised learning models
+   Random Forest + PCA
+   Logsitical Regression + PCA
+   k-Nearest Neighbors (k-NN) + PCA
+
+### Data Acquisition
+I tried to get data from medical instiions but first I was required to have myself reguistered with instituin but as the same time it required a degree in medical field which was major challenge, therefore, I end up using Kaggle dataset. I used 
+
+Diabetes Health Indicators
+![image.png](attachment:4a01d6ee-abe8-4100-9a20-2154453dfb14.png)
+
+https://www.kaggle.com/code/ahmedatalla/diabetes-health-indicators
+
+  
+7.	The deliverable at this step is to identify what data you plan to acquire and use with your model. For the best results, data should come from multiple sources and your analysis for including specific data should be clear. Please provide a clear visualization to assess the data’s potential to solve the problem as well.
+8.	Data Preprocessing/Preparation: For this deliverable, you are tasked with detailing how you cleaned the data for your notebook.
+9.	
+a.	What techniques did you use to ensure your data was free of missing values, and inconsistencies? 
+b.	How did you split the data into training and test sets?
+c.	Please include any necessary analysis and encoding steps you took as well.
+10.	Modeling: For this deliverable, please document your selection of machine learning algorithms that you selected for your problem statement from the first deliverable.
+11.	Model Evaluation: Share your model evaluation here. What types of models did you consider for your problem (classification, regression, unsupervised)?  Articulate the evaluation metrics you used and how you determined which model was most optimal for your problem.
 
 
 ### Business understanding of the problem
