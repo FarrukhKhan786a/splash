@@ -96,4 +96,4 @@ Rows Count: 578,052
 
 #### Next step
 
-- Need to root cuase and fix the issue which has been introduced after code optimzation which has resulted results down
+- Need to root cause and fix the issue which has been introduced after code optimzation which has results down number
