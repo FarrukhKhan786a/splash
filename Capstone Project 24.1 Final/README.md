@@ -1,5 +1,10 @@
 # Capstone Project 24.1 Final Report
 
+#### Code for Capstone Project 24.1 Final Report
+
+### Important note: File is big, therefore, can't be viewed in Github viewer. Need to download and use Jupyter notebook or Jupyter lab
+https://github.com/FarrukhKhan786a/splash/edit/main/Capstone%20Project%2024.1%20Final/diabetic_latest_24_Final_DEC.ipynb
+
 #### Problem Statement
 Diabetes is among the most prevalent chronic diseases in around the world, impacting millions of people each year and exerting a significant financial burden on the economy. Early diagnosis can lead to lifestyle changes and more effective treatment, making predictive models for diabetes risk important tools for public and public health officials. (I am not only the promoter of solution but also a client as I am also diabetic)
 
@@ -97,3 +102,4 @@ Rows Count: 578,052
 #### Next step
 
 - Need to root cause and fix the issue which has been introduced after code optimzation which has resulted in lower accuracy 
+
