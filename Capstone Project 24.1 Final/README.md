@@ -6,9 +6,9 @@ Diabetes is among the most prevalent chronic diseases in around the world, impac
 2.	# Model Outcomes or Predictions:
 	
 ### Supervised Learning Models used
-1) Random Forest  84% achieved
-2) Logsitical Regression 74% achieved
-3) k-Nearest Neighbors (k-NN) ~~ 84% achieved (but slightly lesser compare to Random Forest)
+1) Random Forest  up to 84% achieved
+2) Logsitical Regression up to 74% achieved
+3) k-Nearest Neighbors (k-NN) up to ~~ 84% achieved (but slightly lesser compare to Random Forest)
    
 ### Unsupervised Learning Models used
    Dimensionality Reduction Models:
@@ -20,15 +20,27 @@ Diabetes is among the most prevalent chronic diseases in around the world, impac
    k-Nearest Neighbors (k-NN) + PCA
 
 ### Data Acquisition
-I tried to get data from medical instiions but first I was required to have myself reguistered with instituin but as the same time it required a degree in medical field which was major challenge, therefore, I end up using Kaggle dataset. I used 
+I tried to get data from medical instiions but first I was required to have myself reguistered with instituin but as the same time it required a degree in medical field which was major challenge, therefore, I end up using Kaggle dataset. I used below
 
-Diabetes Health Indicators
-![image.png](attachment:4a01d6ee-abe8-4100-9a20-2154453dfb14.png)
+### Diabetes Health Indicators
+https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset
 
-https://www.kaggle.com/code/ahmedatalla/diabetes-health-indicators
+Dataset has columns (total 22 columns):
+Dataset rows Count: 578,052
+
+Below are importance features which are useful for classification between diabetic versus Non-diabetic person
+     GenHlth 	- General health
+     Age   
+     BMI     	- Body Mass Index
+     HighBP  	- High Blood pressure
+     HighChol  - High Cholestrol
+
+Data columns (total 22 columns):
+Rows Count: 578,052
 
   
-7.	The deliverable at this step is to identify what data you plan to acquire and use with your model. For the best results, data should come from multiple sources and your analysis for including specific data should be clear. Please provide a clear visualization to assess the data’s potential to solve the problem as well.
+![image](https://github.com/user-attachments/assets/98f1f310-6b3a-48cd-ac51-fcbc269f1e77)
+
 8.	Data Preprocessing/Preparation: For this deliverable, you are tasked with detailing how you cleaned the data for your notebook.
 9.	
 a.	What techniques did you use to ensure your data was free of missing values, and inconsistencies? 
